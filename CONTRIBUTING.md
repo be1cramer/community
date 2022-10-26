@@ -21,7 +21,7 @@ given the same level of review.
 - [Design documents](#design-documents)
 - [Contributing documentation](#contributing-documentation)
 - [Contributing a feature](#contributing-a-feature)
-- [Setting up to contribute to Knative](#setting-up-to-contribute-to-knative)
+- [Setting up to contribute to Knative](#setting-up-to-contributedd-to-knative)
 - [Pull requests](#pull-requests)
 - [Issues](#issues)
 
